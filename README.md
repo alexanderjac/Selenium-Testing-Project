@@ -24,7 +24,10 @@ c)	Add a couple of items to My Favorites by clicking on the asterisk next to it.
  
  
 Note: The highlighted part is “My Favorites” section.
+
+
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/90269638/164360771-4b847915-169f-43f7-86ff-4cbf78c221df.png">
+
 
 <img width="459" alt="image" src="https://user-images.githubusercontent.com/90269638/164360893-47b753ff-d933-42a2-aa2e-a2d4b61cb24e.png">
 
